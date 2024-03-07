@@ -23,3 +23,22 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
+
+- The first process of ticket lifecycle is 'Intake'. This stage is when someone would first submit a ticket either reporting a problem or wanting information. (Shown below)
+
+![image](https://github.com/calebstreight/ticket-lifecycle/assets/162412951/61c60f03-d67f-453a-9c35-bb7255ca4e59)
+
+
+- The next process of ticket lifecycle is 'Assignment and Communication'. This stage is when the ticket is assigned an SLA severity and assigned to an agent who will communicate with the ticket submitter (customer) so that the problem may be worked and resolved. So the ticket that was just submitted will be assigned a SEV-A because of how urgent it is and that will be communicated. (Shown below)
+
+![image](https://github.com/calebstreight/ticket-lifecycle/assets/162412951/85f8b035-58f1-4fd9-b264-de603598a297)
+![image](https://github.com/calebstreight/ticket-lifecycle/assets/162412951/ebd018fc-d18e-4995-848f-42d2c796cc85)
+
+
+- The next process of ticket lifecycle is 'Working the Issue'. This is when the act of fixing the issue is happening.
+
+
+- The last process of ticket lifecycle is 'Resolution'. This is when the ticket is closed and the issue is solved and communicated to user. (Shown below)
+
+![image](https://github.com/calebstreight/ticket-lifecycle/assets/162412951/7f12ce34-3339-45d2-b1dc-5dc29b5043ec)
+
