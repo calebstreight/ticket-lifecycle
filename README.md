@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-- The first process of ticket lifecycle is 'Intake'. This stage is when someone would first submit a ticket either reporting a problem or wanting information. (Shown below)
+- The first process of ticket lifecycle is 'Intake'. This stage is when someone would first submit a ticket either reporting a problem or requesting information. (Shown below)
 
 ![image](https://github.com/calebstreight/ticket-lifecycle/assets/162412951/61c60f03-d67f-453a-9c35-bb7255ca4e59)
 
